@@ -99,3 +99,27 @@ body{
 body{
     background-color: #31b32b;
 } */
+.nav1{
+    background-color: aqua;
+}
+.header{
+    background-color: blue;
+}
+.nav2{
+    background-color: violet;
+}
+.article{
+    background-color: red;
+}
+.aside{
+    background-color: green;
+}
+.footer{
+    background-color: blueviolet;
+}
+.line{
+    height: 40px;
+}
+.na{
+    height:100px;
+}
