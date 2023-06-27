@@ -1,0 +1,101 @@
+/* .conteiner{
+    display: flex;
+    flex-wrap: wrap;
+}
+.aside, .main{
+    width: 100%;
+    min-height: 50px;
+}
+.aside{
+    background-color: orange;
+}
+.main{
+    background-color: rgb(70, 154, 154);
+}
+@media(min-width: 992px){
+.aside{
+    flex: 0 0 33.3%;
+    max-width: 33.3%;
+    order: 1;
+}
+.main{
+    flex: 0 0 66.7%;
+    max-width: 66.7%;
+    order: 2;
+}
+
+}
+
+@media(min-width: 1400px){
+ .aside{
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+.main{
+    flex: 0 0 75%;
+    max-width: 75%;
+}
+
+} */
+/* .b1{
+    background-color: rgb(143, 66, 143);
+}
+.b2{
+    background-color: blueviolet;
+}
+.b3{
+    background-color: bisque;
+}
+.b4{
+    background-color: coral;
+}
+.b5{
+    background-color: darkgray;
+}
+.b6{
+    background-color: darkseagreen;
+} */
+
+/* .a1{
+    background-color: yellow;
+    height: 100px;
+    width: 50px;
+}
+.a2{
+    background-color: aqua;
+    height: 150px;
+    width: 50px;
+}
+.a3{
+    background-color: black;
+    height: 75px;
+    width: 50px;
+}
+.a4{
+    background-color: yellowgreen;
+    height: 150px;
+    width: 50px;
+}
+.a5{
+    background-color: lightsalmon;
+    height: 100px;
+    width: 50px;
+}
+.a6{
+    background-color: red;
+    height: 75px;
+    width: 50px;
+} */
+/* .square{
+    background-color: aqua;
+}
+.s1{
+    border: 1px black;
+    height: 200px;
+}
+body{
+    background-color: #802f94!important;
+}
+body{
+    background-color: #31b32b;
+} */
