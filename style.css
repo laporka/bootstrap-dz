@@ -99,7 +99,7 @@ body{
 body{
     background-color: #31b32b;
 } */
-.nav1{
+/* .nav1{
     background-color: aqua;
 }
 .header{
@@ -122,4 +122,9 @@ body{
 }
 .na{
     height:100px;
+} */
+
+.wh{
+    width: 300px;
+    height: 300px;
 }
